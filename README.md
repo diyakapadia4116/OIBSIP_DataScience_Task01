@@ -1,16 +1,22 @@
 # 🌸 Iris Flower Classification (Machine Learning + Flask Web App)
 
-🏆 Oasis Infobyte Internship Task
-This project was completed as part of the Oasis Infobyte Data Science Internship Program (OIBSIP).
+# 🏆 Oasis Infobyte Internship Task
 
-Task Details
-Field	Details
-Internship Program	Oasis Infobyte Data Science Internship (OIBSIP)
-Task Number	Task 1
-Task Name	Iris Flower Classification
-Domain	Machine Learning Classification
-Model Type	Supervised Learning
-Deployment	Streamlit Dashboard
+This project was completed as part of the **Oasis Infobyte Data Science Internship Program (OIBSIP)**.
+
+### Task Details
+
+| Field              | Details                                         |
+| ------------------ | ----------------------------------------------- |
+| Internship Program | Oasis Infobyte Data Science Internship (OIBSIP) |
+| Task Number        | Task 1                                          |
+| Task Name          | Iris Flower Classification                      |
+| Domain             | Machine Learning Classification                 |
+| Model Type         | Supervised Learning                             |
+| Deployment         | Streamlit Dashboard                             |
+
+---
+
 
 
 ## 📌 Project Overview

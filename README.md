@@ -54,6 +54,14 @@ The model is trained using the Iris dataset and deployed using a Flask web appli
 The Random Forest Classifier achieves high accuracy on the test dataset and performs well across all three Iris species categories.
 
 ## 👩‍💻 Author
+
 **Diya Kapadia**  
-Computer Science Student
+Computer Science Student  
+Machine Learning & Data Science Enthusiast
+
+---
+
+## ⭐ Acknowledgements
+
+This project was developed as part of the **Oasis Infobyte Data Science Internship Program (OIBSIP)** and demonstrates the practical application of Machine Learning, Data Analysis, and Data Visualization techniques for business decision-making.
 
